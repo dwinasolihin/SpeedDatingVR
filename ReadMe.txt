@@ -2,8 +2,8 @@ SpeedDating VR
 AT&T VR/AR Hackathon 2017
 
 ====Contributors====
-Rizky Ramdhani
 Dwina Solihin
+Rizky Ramdhani
 Sean Chong
 Jianguo Jiang
 Jared Lutteke
